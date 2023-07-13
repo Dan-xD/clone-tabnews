@@ -1,5 +1,5 @@
 function Home() {
-    return <h1>eu to pensando em me matar amanha</h1>
+    return <h1>faz dias que eu nao estou feliz</h1>
 }
 
 export default Home;
