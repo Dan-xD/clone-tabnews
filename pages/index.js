@@ -1,5 +1,5 @@
 function Home() {
-  return <h1>faz dias que eu nao estou feliz</h1>;
+  return <h1>Who tf tryna nut in my butt</h1>;
 }
 
 export default Home;
